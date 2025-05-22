@@ -22,6 +22,7 @@ git stash
 git push -uf origin master
 
 firebase hosting
+npm install firebase
 npm install -g firebase-tools
 firebase login
 firebase init

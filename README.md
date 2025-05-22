@@ -1,14 +1,17 @@
 # demoAngular
 
-crear vue
+npm install -g @vue/cli
+#crear vue
 vue create <nombreproyecto>
 npm run serve
 
-crear react
+node.js
+#crear react
 npx create-react-app <nombreproyecto>
 npm start
 
-crear angular
+npm install -g @angular/cli@lastest
+#crear angular
 ng new <nombreproyecto>
 npm start
 
